@@ -14,4 +14,9 @@ ainsi les performances de l'exécution.
 ## Question 3
 
 ### Créer une image docker ma_super_app
+
 docker build -t ma_super_app
+
+## Question 4
+
+Ajout de variable d'environnement dans le fichier .yml pour ajouter ma base de donnée perso
